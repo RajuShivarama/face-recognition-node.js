@@ -26,6 +26,7 @@ This Project uses Clarifai API to detect face in an image. It helps to detect fa
   Database:- PostgreSQL
   
   API:- Clarifai Machine Learning API
+  
 
 #### Preview
 
