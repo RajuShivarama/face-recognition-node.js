@@ -30,4 +30,4 @@ This Project uses Clarifai API to detect face in an image. It helps to detect fa
 
 #### Preview
 
-![Screenshot of my Facial Recognition App Project](https://confidenceiskey.github.io/codepenimg/facial-recognition.png "Screenshot of my Facial Recognition Web App")
+![Screenshot of my Facial Recognition App Project](https://github.com/RajuShivarama/face-recognition/preview.png "Screenshot of my Facial Recognition Web App")
