@@ -30,4 +30,4 @@ This Project uses Clarifai API to detect face in an image. It helps to detect fa
 
 #### Preview
 
-![Alt text](https://github.com/RajuShivarama/face-recognition/preview.png "Optional title")
+![Alt text](/preview.png "Optional title")
